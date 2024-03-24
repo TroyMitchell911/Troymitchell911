@@ -48,7 +48,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![nxp](http://img.shields.io/badge/-imx6ull-03234B?style=flat-square&logo=nxp&logoColor=ffffff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)
-![espressif](http://img.shields.io/badge/-ESP32 & ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
+![espressif](http://img.shields.io/badge/-ESP32%20&%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
 ![stmicroelectronics](http://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=ffffff)
 ![linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 
