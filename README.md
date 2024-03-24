@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-## Hi, I'm Troy Mitchell, a Developer 🚀 from China.
+# :man_technologist:  Hi, I'm Troy Mitchell, a Developer 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucieguererro@gmail.com)&nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+## Talking about Personal Stuffs:
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I am a junior computer science student. I really hope to get internship opportunities abroad, whether online or offline;
 - 📫 How to reach me: lucieguererro@gmail.com;
 
-**Technologies I'm Learning :books:** 
+## Technologies I'm Learning :books:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -48,7 +48,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![nxp](http://img.shields.io/badge/-imx6ull-03234B?style=flat-square&logo=nxp&logoColor=ffffff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)
-![espressif](http://img.shields.io/badge/-ESP32%20&%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
+![espressif](http://img.shields.io/badge/-ESP32 & ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
 ![stmicroelectronics](http://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=ffffff)
 ![linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 
