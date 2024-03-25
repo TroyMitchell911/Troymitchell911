@@ -29,12 +29,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
+ <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -43,7 +38,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![rust](http://img.shields.io/badge/-Rust-03234B?style=flat-square&logo=rust&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-
+![yolov5](https://img.shields.io/badge/-yolov5-C5242C?style=flat-square&logo=futurelearn)
 
 ![nxp](http://img.shields.io/badge/-imx6ull-03234B?style=flat-square&logo=nxp&logoColor=ffffff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
@@ -69,7 +64,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows11&logoColor=ffffff)
 ![Quest3](http://img.shields.io/badge/-Quest3-0467DF?style=flat-square&logo=meta&logoColor=ffffff)
 
 
