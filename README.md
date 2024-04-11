@@ -15,8 +15,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/TroyMitchell911/Troymitchell911/blob/main/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [S-Language](https://github.com/TroyMitchell911/S-Language);
-- 🌱 I'   m currently learning operating systems and how to make a programming language; 
+- 👨🏽‍💻 I’m currently working on [caffeinix](https://github.com/TroyMitchell911/caffeinix/);
+- 🌱 I'm currently learning operating systems; 
 - 👯 I’m looking to collaborate on [Operating System]🤝;
 - 🤔 I’m looking for help with  [Understand linux source code]😭;
 - 💬 Ask me about anything, I am happy to help;
