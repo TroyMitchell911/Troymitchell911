@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with  [Understand linux source code]😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a junior computer science student. I really hope to get internship opportunities abroad, whether online or offline;
-- 📫 How to reach me: lucieguererro@gmail.com;
+- 📫 How to reach me: TroyMitchell988@gmail.com;
 
 ## Technologies I'm Learning :books:
 
