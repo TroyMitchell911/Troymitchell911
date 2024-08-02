@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TroyMitchell911)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucieguererro@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:TroyMitchell988@gmail.com)&nbsp;
 
 <!-- Talking about you -->
 ## Talking about Personal Stuffs:
@@ -53,6 +53,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)
 ![espressif](http://img.shields.io/badge/-ESP32%20&%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
 ![stmicroelectronics](http://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=ffffff)
+![rockchip](http://img.shields.io/badge/-rockchip-F40027?style=flat-square&logo=kfc&logoColor=ffffff)
 ![linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 
 
