@@ -53,7 +53,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)
 ![espressif](http://img.shields.io/badge/-ESP32%20&%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
 ![stmicroelectronics](http://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=ffffff)
-![rockchip](http://img.shields.io/badge/-rockchip-F40027?style=flat-square&logo=kfc&logoColor=ffffff)
+![rockchip](http://img.shields.io/badge/-rk3568%20&%20rk3588-F40027?style=flat-square&logo=kfc&logoColor=ffffff)
+![allwinner](http://img.shields.io/badge/-f1c200s-FBC817?style=flat-square&logo=mcdonalds&logoColor=ffffff)
 ![linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 
 
