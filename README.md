@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TroyMitchell911)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:TroyMitchell988@gmail.com)&nbsp;
 
-<!-- Talking about you -->
+<!-- Talking about you --> 
 ## Talking about Personal Stuffs:
 
 <!-- Any image aligned to the right. Beware the width -->
