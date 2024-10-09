@@ -40,6 +40,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
     <a href="https://github.com/TroyMitchell911">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
+    <img height="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troymitchell911&hide_border=true&layout=compact" />
   </a>
 </p>
 
