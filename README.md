@@ -32,23 +32,6 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: TroyMitchell988@gmail.com;
 
 ## Technologies I'm Learning :books:
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-
-<p>
-    <a href="https://github.com/TroyMitchell911">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
-    <img height="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troymitchell911&hide_border=true&layout=compact" />
-  </a>
-</p>
-
-
-
- <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![cplusplus](http://img.shields.io/badge/-C++-03234B?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -89,7 +72,22 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Its main projects -->
 
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
 
+<p>
+  <a href="https://github.com/TroyMitchell911">
+    <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
+    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=troymitchell911&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+</p>
+
+
+
+ <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
 ⭐️ From [TroyMitchell](https://github.com/TroyMitchell911)
