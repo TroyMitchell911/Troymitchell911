@@ -68,8 +68,6 @@ You can use the website to generate badges: https://shields.io/
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows11&logoColor=ffffff)
 ![Quest3](http://img.shields.io/badge/-Quest3-0467DF?style=flat-square&logo=meta&logoColor=ffffff)
 
-
-
 <!-- Its main projects -->
 
 <!-- Your github readme stats
@@ -82,7 +80,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=troymitchell911&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p>
-
 
 
  <!-- Your languages and tools. Be careful with the alignment. 
