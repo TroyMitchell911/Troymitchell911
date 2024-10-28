@@ -1,4 +1,4 @@
-<!-- dynamic typing effect 动态打字效果 -->
+<!-- dynamic typing effect -->
 
   <div align="center">
     <a href="https://blog.505218.xyz">
