@@ -81,6 +81,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TroyMitchell911/Troymitchell911/refs/heads/output/github-contribution-grid-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TroyMitchell911/Troymitchell911/refs/heads/output/github-contribution-grid-snake-Light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TroyMitchell911/Troymitchell911/refs/heads/output/github-contribution-grid-snake-Light.svg">
+</picture>
+
 
  <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
