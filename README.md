@@ -76,8 +76,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <p>
   <a href="https://github.com/TroyMitchell911">
-    <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
-    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=troymitchell911&show_icons=true&hide_border=true&layout=compact" />
+    <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
+    <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=troymitchell911&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p>
 
