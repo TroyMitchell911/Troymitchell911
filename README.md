@@ -1,7 +1,7 @@
 <!-- dynamic typing effect -->
 
   <div align="center">
-    <a href="https://blog.505218.xyz">
+    <a href="https://blog.troy-y.org">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(Hello%2C%20World!);&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -23,13 +23,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/TroyMitchell911/Troymitchell911/blob/main/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [caffeinix](https://github.com/TroyMitchell911/caffeinix/);
-- 🌱 I'm currently learning operating systems; 
+- 👨🏽‍💻 I’m currently working on [SpacemiT](https://www.spacemit.com);
+- 🌱 I'm currently learning operating systems & HPC;
 - 👯 I’m looking to collaborate on [Operating System]🤝;
-- 🤔 I’m looking for help with  [Understand linux source code]😭;
+- 🤔 I’m looking for help with  [Understand openmpi source code]😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am a junior computer science student. I really hope to get internship opportunities abroad, whether online or offline;
-- 📫 How to reach me: TroyMitchell988@gmail.com;
+- 📫 How to reach me: troymitchell988@gmail.com;
 
 ## Technologies I'm Learning :books:
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
