@@ -38,6 +38,7 @@ You can use the website to generate badges: https://shields.io/
 ![Android](http://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![yolov5](https://img.shields.io/badge/-yolov5-C5242C?style=flat-square&logo=futurelearn)
+![openmpi](https://img.shields.io/badge/openmpi-blue)
 
 ![nxp](http://img.shields.io/badge/-imx6ull-03234B?style=flat-square&logo=nxp&logoColor=ffffff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
@@ -46,12 +47,12 @@ You can use the website to generate badges: https://shields.io/
 ![stmicroelectronics](http://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=ffffff)
 ![rockchip](http://img.shields.io/badge/-rk3568%20&%20rk3588-F40027?style=flat-square&logo=kfc&logoColor=ffffff)
 ![allwinner](http://img.shields.io/badge/-f1c200s-FBC817?style=flat-square&logo=mcdonalds&logoColor=ffffff)
-![linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
-
+![spacemit](https://img.shields.io/badge/spacemit-k1-green)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea)
 
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -62,6 +63,7 @@ You can use the website to generate badges: https://shields.io/
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
+![Arch](http://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows11&logoColor=ffffff)
