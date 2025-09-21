@@ -8,7 +8,7 @@
 
 <!-- Your title -->
 
-# :man_technologist:  Hi, I'm Troy Mitchell, a Developer 🚀 from China.
+# :man_technologist:  Hi, I'm Troy Mitchell, a Developer 🚀 from Canada.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
