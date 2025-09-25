@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on [Operating System]🤝;
 - 🤔 I’m looking for help with  [Understand openmpi source code]😭;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: troymitchell988@gmail.com;
+- 📫 How to reach me: troy@troy-y.org;
 
 ## Technologies I'm Learning :books:
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
