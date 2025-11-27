@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/TroyMitchell911/Troymitchell911/blob/main/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [SpacemiT](https://www.spacemit.com);
+- 👨🏽‍💻 I’m currently working on [SpacemiT](https://www.spacemit.com/en/);
 - 🌱 I'm currently learning operating systems & HPC;
 - 👯 I’m looking to collaborate on [Operating System]🤝;
 - 🤔 I’m looking for help with  [Understand openmpi source code]😭;
