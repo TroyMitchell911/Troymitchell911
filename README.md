@@ -14,9 +14,8 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TroyMitchell911)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:troy@troy-y.org)&nbsp;
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/TroyMitchell911)&nbsp;
+[![Homepage](https://img.shields.io/badge/-Homepage-0366d6?style=flat&logo=homepage&logoColor=white)](https://troy-y.org)
+[![Blog](https://img.shields.io/badge/-Blog-f66a0a?style=flat&logo=Hugo&logoColor=white)](https://blog.troy-y.org)
 
 <!-- Talking about you --> 
 ## Talking about Personal Stuffs:
